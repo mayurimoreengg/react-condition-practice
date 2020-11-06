@@ -1,0 +1,35 @@
+h1,
+p {
+  font-family: Lato;
+}
+p {
+  font-weight: bold;
+}
+input {
+  padding: 0.5em 1em;
+  border-radius: 5px;
+}
+.noProfitNoLoss {
+  background-color: rgb(255, 171, 97);
+  text-align: center;
+  padding: 1em;
+  letter-spacing: 0.5px;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+.profit {
+  background-color: rgb(237, 243, 146);
+  text-align: center;
+  padding: 1em;
+  letter-spacing: 0.5px;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
+.loss {
+  background-color: rgb(255, 133, 133);
+  text-align: center;
+  padding: 1em;
+  letter-spacing: 0.5px;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
